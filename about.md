@@ -6,7 +6,9 @@ permalink: /about/
 
 ### Profile
 DOHYUN KIM(1993.04.27)
+
 정보보안학과
+
 BEST OF THE BEST 8th
 
 ### More Information
