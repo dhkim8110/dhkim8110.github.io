@@ -21,8 +21,7 @@ permalink: /about/
 ## Skil
 * Web_Hacking
 * Python 자동화
-* ISMS-P 컨설팅
-* 개인정보보호 법제 지식
+* 관리 컨설팅
 
 
 
