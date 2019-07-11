@@ -17,6 +17,7 @@ permalink: /about/
 * MOS Excel2010 Expert
 
 
+
 ## Archive
 - 2019.06 ~ 2020.03 BEST OF BEST 8th(보안컨설팅 트랙)
 - 2019.01 ~ 2019.06 Raonsecure_품질기획팀_인턴(보안제품 솔루션 테스트)
