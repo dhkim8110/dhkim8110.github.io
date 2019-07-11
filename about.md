@@ -18,12 +18,22 @@ permalink: /about/
 
 
 
+## Skil
+* Web_Hacking
+* Python 자동화
+* ISMS-P 컨설팅
+* 개인정보보호 법제 지식
+
+
+
+
 ## Archive
 - 2019.06 ~ 2020.03 BEST OF BEST 8th(보안컨설팅 트랙)
 - 2019.01 ~ 2019.06 Raonsecure_품질기획팀_인턴(보안제품 솔루션 테스트)
 - 2018.01 ~ 2018.12 KISA_KUCIS 경동대학교_미르_동아리_회장(IoT 무선패킷 분석)
 - 2016.03 ~ 2018.01 경동대학교_전산정보원_근로장학생(PC_유지보수, 네트워크 관리)
-
+- 2012.03 ~ 2016.03 ???
+- 2009.03 ~ 2012.02 재현고등학교
 
 ## Contact me
 [wytmz2@naver.com](mailto:wytmz2@naver.com)
